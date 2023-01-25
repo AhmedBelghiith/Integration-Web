@@ -2,7 +2,7 @@
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+This space is to list resources i find helpful. I've included a few of my favorites to kick things off!
 
 * [GitHub](https://https://github.com)
 * [Bootstrap](https://getbootstrap.com)
